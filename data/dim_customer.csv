@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Segment,AccountTier
+C001,Acme Corp,Enterprise,Platinum
+C002,TechStart Inc,Mid-Market,Platinum
+C003,Global Systems,SMB,Platinum
+C004,DataDriven LLC,Enterprise,Platinum
+C005,CloudFirst Co,Mid-Market,Platinum
+C006,Enterprise Solutions,SMB,Gold
+C007,Digital Dynamics,Enterprise,Gold
+C008,InfoTech Partners,Mid-Market,Gold
+C009,NextGen Labs,SMB,Gold
+C010,Prime Analytics,Enterprise,Gold
+C011,Quantum Computing,Mid-Market,Gold
+C012,SmartBiz Solutions,SMB,Gold
+C013,TechWave Inc,Enterprise,Silver
+C014,ByteForce,Mid-Market,Silver
+C015,CyberNet Systems,SMB,Silver
+C016,DataPulse Corp,Enterprise,Silver
+C017,EliteCode LLC,Mid-Market,Silver
+C018,FutureTech,SMB,Silver
+C019,InnovateCo,Enterprise,Silver
+C020,MaxData Inc,Mid-Market,Silver

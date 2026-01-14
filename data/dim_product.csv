@@ -1,0 +1,5 @@
+ProductID,ProductName,Category,UnitCost,LaunchYear
+P001,CloudSync Pro,Software,45.0,2020
+P002,DataVault Enterprise,Software,120.0,2021
+P003,SecureNode Hardware,Hardware,280.0,2019
+P004,EdgeCompute Device,Hardware,195.0,2022
