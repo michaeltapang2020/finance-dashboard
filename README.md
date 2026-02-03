@@ -68,7 +68,7 @@ finance-dashboard/
 │   ├── schema.sql          # Table definitions
 │   └── views.sql           # Analytical views
 ├── bi/
-│   └── finance_dashboard.xlsx  # Interactive dashboard
+│   └── finance_dashboard.pbix  # Interactive dashboard
 ├── docs/
 │   └── data_dictionary.md
 └── README.md
@@ -112,7 +112,7 @@ finance-dashboard/
 
 - **Database**: SQLite (portable, easy to demonstrate)
 - **Data Generation**: Python (pandas, numpy)
-- **BI Tool**: Excel with pivot tables, charts, and conditional formatting
+- **BI Tool**: Power BI
 - **Version Control**: Git
 
 ---
@@ -121,7 +121,7 @@ finance-dashboard/
 
 1. **Review the Data Model**: See `docs/data_dictionary.md` for detailed field descriptions
 2. **Explore the Database**: Run `sql/schema.sql` then `sql/views.sql` in any SQLite client
-3. **Open the Dashboard**: `bi/finance_dashboard.xlsx` contains the interactive reports
+3. **Open the Dashboard**: `bi/finance_dashboard.pbix` contains the interactive reports
 
 ---
 
